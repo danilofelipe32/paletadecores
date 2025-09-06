@@ -1,0 +1,5 @@
+{
+  "name": "Gerador de Paleta de Cores",
+  "description": "Um moderno gerador de paletas de cores que usa um círculo cromático e regras de harmonia para criar esquemas de cores impressionantes. Selecione uma cor base, escolha uma regra de harmonia e obtenha uma nova e bela paleta.",
+  "requestFramePermissions": []
+}
